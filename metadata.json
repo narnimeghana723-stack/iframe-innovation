@@ -1,0 +1,6 @@
+{
+  "name": "IFRAME",
+  "description": "A modern, premium dark blue company website for IFRAME, an innovation-focused technology and applied engineering company.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
